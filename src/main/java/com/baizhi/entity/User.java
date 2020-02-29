@@ -16,9 +16,9 @@ public class User implements Serializable {
 
     //git
     //
-    //
-
-    public String getUsername() {
+    // TH尚楠的修改向上
+    
+    公共 字符串 getUsername（） {
         return username;
     }
 
